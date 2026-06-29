@@ -1,5 +1,7 @@
 # 🚀 Rising Gems · Underrated, Fast-Growing Open Source
 
+**English** · [中文](README.zh.md)
+
 From 60k+ high-star repos we track, we surface the ones that are **still small but growing fastest this week** — under-the-radar projects quietly taking off. Unlike trending lists that rank by absolute star gains, we weight growth **relative to size**, so small-but-surging projects rise to the top. Auto-refreshed weekly.
 
 > Maintained by [StarScope](https://repodiscover.com) · live, filterable → https://repodiscover.com/trending  ·  Updated 2026-06-29

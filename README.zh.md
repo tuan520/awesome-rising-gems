@@ -1,5 +1,7 @@
 # 🚀 Rising Gems · 开源冷门潜力榜
 
+[English](README.md) · **中文**
+
 在我们持续追踪的 6 万+ 高星开源项目里，挑出**体量还不大、但近一周增长最快**的——往往是还没被大众发现、却正在起飞的黑马。不同于只看绝对涨星的官方热榜，这里更看重**相对体量的增速**，让小而猛的项目也能冒头。每周自动刷新。
 
 > 由 [StarScope](https://repodiscover.com) 自动维护 · 实时可筛版 → https://repodiscover.com/trending  ·  更新于 2026-06-29
