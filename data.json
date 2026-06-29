@@ -1,0 +1,485 @@
+{
+  "date": "2026-06-29",
+  "count": 34,
+  "projects": [
+    {
+      "full_name": "zhaoxuya520/reverse-skill",
+      "html_url": "https://github.com/zhaoxuya520/reverse-skill",
+      "stars": 6817,
+      "star_delta": 4522,
+      "growth_rate": 1.9704,
+      "language": "PowerShell",
+      "domains": [
+        "ai-llm",
+        "agent",
+        "automation"
+      ],
+      "summary_zh": "AI驱动的逆向工程与渗透测试技能路由包。当AI编码客户端遇到逆向/渗透任务时，自动路由到正确的工作流和工具链，避免手动切换方法",
+      "summary_en": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+    },
+    {
+      "full_name": "kunchenguid/no-mistakes",
+      "html_url": "https://github.com/kunchenguid/no-mistakes",
+      "stars": 4105,
+      "star_delta": 2568,
+      "growth_rate": 1.6708,
+      "language": "Go",
+      "domains": [
+        "ai-llm",
+        "automation"
+      ],
+      "summary_zh": "在git推送前运行AI验证的本地代理。在推送代码前自动运行审核、测试、文档和代码规范检查，避免错误提交，并自动生成干净的Pull Request。",
+      "summary_en": "git push no-mistakes"
+    },
+    {
+      "full_name": "BuilderIO/agent-native",
+      "html_url": "https://github.com/BuilderIO/agent-native",
+      "stars": 2921,
+      "star_delta": 1592,
+      "growth_rate": 1.1979,
+      "language": "TypeScript",
+      "domains": [
+        "ai-llm",
+        "agent",
+        "backend"
+      ],
+      "summary_zh": "构建智能体原生应用的框架。它解决了在真实应用中构建智能体的难题，让代理与UI共享状态和操作，而不是独立于应用之外。",
+      "summary_en": "A framework for building agent-native applications."
+    },
+    {
+      "full_name": "StarTrail-org/PixelRAG",
+      "html_url": "https://github.com/StarTrail-org/PixelRAG",
+      "stars": 5512,
+      "star_delta": 2883,
+      "growth_rate": 1.0966,
+      "language": "Python",
+      "domains": [
+        "ai-llm",
+        "agent"
+      ],
+      "summary_zh": "通过截图而非文本解析的视觉检索与搜索工具。传统基于文本的RAG会丢失表格、图表等视觉信息；PixelRAG通过截图保留页面布局，使检索和问答更准确。",
+      "summary_en": "The end of web parsing. The beginning of scalable pixel-native search."
+    },
+    {
+      "full_name": "nubjs/nub",
+      "html_url": "https://github.com/nubjs/nub",
+      "stars": 2361,
+      "star_delta": 1193,
+      "growth_rate": 1.0214,
+      "language": "Rust",
+      "domains": [
+        "cli",
+        "backend"
+      ],
+      "summary_zh": "一个增强 Node.js 的全能工具集。解决 Node.js 开发中需要多个工具（运行、安装、版本管理）的问题，提供统一的命令行体验。",
+      "summary_en": "The fast all-in-one Node.js toolkit"
+    },
+    {
+      "full_name": "zhongerxin/Cowart",
+      "html_url": "https://github.com/zhongerxin/Cowart",
+      "stars": 2693,
+      "star_delta": 1213,
+      "growth_rate": 0.8196,
+      "language": "JavaScript",
+      "domains": [
+        "ai-llm",
+        "image-gen"
+      ],
+      "summary_zh": "Codex 的本地无限画布插件，用于 AI 图片生成与编辑。在 Codex 中缺乏可视化画布来构思、标注和迭代生成图片",
+      "summary_en": null
+    },
+    {
+      "full_name": "every-app/open-seo",
+      "html_url": "https://github.com/every-app/open-seo",
+      "stars": 3690,
+      "star_delta": 1452,
+      "growth_rate": 0.6488,
+      "language": "TypeScript",
+      "domains": [
+        "self-hosted",
+        "ai-llm",
+        "scraping"
+      ],
+      "summary_zh": "开源SEO工具，支持关键词研究、排名追踪、网站审计。替代昂贵臃肿的Semrush或Ahrefs，用户自托管且按需付费（DataForSEO API费用）",
+      "summary_en": "Open source alternative to Semrush and Ahrefs"
+    },
+    {
+      "full_name": "altic-dev/FluidVoice",
+      "html_url": "https://github.com/altic-dev/FluidVoice",
+      "stars": 3826,
+      "star_delta": 1429,
+      "growth_rate": 0.5962,
+      "language": "Swift",
+      "domains": [
+        "ai-llm"
+      ],
+      "summary_zh": "macOS 离线语音转文字应用，完全本地运行。需快速、私密的语音转文字方案，避免云端依赖和数据外泄",
+      "summary_en": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :)) "
+    },
+    {
+      "full_name": "prajwalch/TorrentSearch",
+      "html_url": "https://github.com/prajwalch/TorrentSearch",
+      "stars": 1522,
+      "star_delta": 522,
+      "growth_rate": 0.522,
+      "language": "Kotlin",
+      "domains": [
+        "self-hosted",
+        "mobile"
+      ],
+      "summary_zh": "一个在多个源同时搜索种子的 Android 应用。解决需要从多个种子网站同时搜索、筛选和管理种子链接的需求",
+      "summary_en": "An Android app for searching torrents across multiple providers - fast, detailed, and packed with actions."
+    },
+    {
+      "full_name": "fluffypony/yojam",
+      "html_url": "https://github.com/fluffypony/yojam",
+      "stars": 1111,
+      "star_delta": 339,
+      "growth_rate": 0.4391,
+      "language": "Swift",
+      "domains": [
+        "automation",
+        "cli"
+      ],
+      "summary_zh": "macOS 链接路由工具，按规则分发到指定浏览器或应用。解决点击链接时总是打开默认浏览器，无法按需分配到不同浏览器、配置文件或应用的问题",
+      "summary_en": "open links on macOS in whatever browser, app, or profile you need - whatever yo jam is"
+    },
+    {
+      "full_name": "andreknieriem/headunit-revived",
+      "html_url": "https://github.com/andreknieriem/headunit-revived",
+      "stars": 1576,
+      "star_delta": 428,
+      "growth_rate": 0.3728,
+      "language": "Kotlin",
+      "domains": [
+        "mobile"
+      ],
+      "summary_zh": "将Android设备变为Android Auto接收器的应用。需要将Android Auto投射到屏幕上，但没有专用车载接收器时使用",
+      "summary_en": "Headunit App for displaying Android Auto"
+    },
+    {
+      "full_name": "interviewstreet/hiring-agent",
+      "html_url": "https://github.com/interviewstreet/hiring-agent",
+      "stars": 1580,
+      "star_delta": 427,
+      "growth_rate": 0.3703,
+      "language": "Python",
+      "domains": [
+        "ai-llm",
+        "automation"
+      ],
+      "summary_zh": "将简历解析为结构化数据并通过 LLM 和 GitHub 信号进行评分的 AI 代理。用于自动、公平且可解释地评估简历，结合 GitHub 数据以减少偏见",
+      "summary_en": "AI agent to evaluate and score resumes."
+    },
+    {
+      "full_name": "Waishnav/devspace",
+      "html_url": "https://github.com/Waishnav/devspace",
+      "stars": 2654,
+      "star_delta": 694,
+      "growth_rate": 0.3541,
+      "language": "TypeScript",
+      "domains": [
+        "ai-llm",
+        "self-hosted"
+      ],
+      "summary_zh": "将ChatGPT转变为Codex，赋予其安全的本机代码访问能力。。ChatGPT无法直接访问本地代码和文件，此工具提供安全的桥接，让AI可以读取、编辑和运行本地代码。",
+      "summary_en": "Turn ChatGPT into Codex!"
+    },
+    {
+      "full_name": "vercel/eve",
+      "html_url": "https://github.com/vercel/eve",
+      "stars": 2869,
+      "star_delta": 750,
+      "growth_rate": 0.3539,
+      "language": "TypeScript",
+      "domains": [
+        "ai-llm",
+        "agent"
+      ],
+      "summary_zh": "一个文件系统优先的持久化AI代理框架。用于构建可靠、可检查的AI代理，使用文件系统组织核心组件，便于开发和生产运维。",
+      "summary_en": "The Framework for Building Agents"
+    },
+    {
+      "full_name": "Zleap-AI/SAG",
+      "html_url": "https://github.com/Zleap-AI/SAG",
+      "stars": 1715,
+      "star_delta": 422,
+      "growth_rate": 0.3264,
+      "language": "TypeScript",
+      "domains": [
+        "ai-llm",
+        "data-engineering"
+      ],
+      "summary_zh": "基于SAG图检索技术的文档问答工作台。解决传统RAG在多跳问答中召回率低、知识组织混乱的问题，提供结构化的事件-实体索引和图表检索。",
+      "summary_en": "An document retrieval project built on SAG"
+    },
+    {
+      "full_name": "NVIDIA/skills",
+      "html_url": "https://github.com/NVIDIA/skills",
+      "stars": 1952,
+      "star_delta": 454,
+      "growth_rate": 0.3031,
+      "language": "Python",
+      "domains": [
+        "ai-llm"
+      ],
+      "summary_zh": "NVIDIA官方的AI agent技能集合。让AI agent学会使用NVIDIA软件（CUDA-X、AI Blueprints等）的便携指令集",
+      "summary_en": "AI agent skills published by NVIDIA"
+    },
+    {
+      "full_name": "anbeime/skill",
+      "html_url": "https://github.com/anbeime/skill",
+      "stars": 2624,
+      "star_delta": 610,
+      "growth_rate": 0.3029,
+      "language": "Python",
+      "domains": [
+        "ai-llm",
+        "agent",
+        "automation"
+      ],
+      "summary_zh": "AI Agent 技能包的聚合索引与备份仓库。解决 AI Agent 技能发现、分类和备份问题，帮助用户快速找到并使用技能包",
+      "summary_en": "收录最全、更新最快的技能Skills 商店，涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流等多个领域的 72 个精选技能包。所有技能已打包完成，可直接安装使用！ 该商店中自动抓取了 Github 上的所有的 Skills 项目，并按照分类、更新时间、Star 数量等标签进行整理。"
+    },
+    {
+      "full_name": "corsairdev/corsair",
+      "html_url": "https://github.com/corsairdev/corsair",
+      "stars": 3536,
+      "star_delta": 820,
+      "growth_rate": 0.3019,
+      "language": "TypeScript",
+      "domains": [
+        "ai-llm"
+      ],
+      "summary_zh": "AI 代理的统一集成与权限控制层。安全地将 AI 代理连接到各种应用，提供细粒度权限控制和凭证管理，防止误操作和泄露。",
+      "summary_en": "Your Agent's Integration Layer"
+    },
+    {
+      "full_name": "levy-street/world-of-claudecraft",
+      "html_url": "https://github.com/levy-street/world-of-claudecraft",
+      "stars": 1360,
+      "star_delta": 297,
+      "growth_rate": 0.2794,
+      "language": "TypeScript",
+      "domains": [
+        "game-dev"
+      ],
+      "summary_zh": "浏览器中的开源经典MMO，可单人离线或多人联机游玩。提供一款免费、开源、可在浏览器中直接游玩的经典风格MMO，支持单人离线、多人联机及AI训练",
+      "summary_en": null
+    },
+    {
+      "full_name": "yifanfeng97/Hyper-Extract",
+      "html_url": "https://github.com/yifanfeng97/Hyper-Extract",
+      "stars": 2644,
+      "star_delta": 541,
+      "growth_rate": 0.2573,
+      "language": "Python",
+      "domains": [
+        "ai-llm",
+        "cli"
+      ],
+      "summary_zh": "使用LLM将非结构化文本转换为结构化知识的命令行工具。从PDF、报告等非结构化文档中提取结构化信息耗时费力，Hyper-Extract利用LLM自动提取为图、超图或时空图",
+      "summary_en": "Hypergraph is more powerful. Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command."
+    },
+    {
+      "full_name": "moorcheh-ai/memanto",
+      "html_url": "https://github.com/moorcheh-ai/memanto",
+      "stars": 1335,
+      "star_delta": 254,
+      "growth_rate": 0.235,
+      "language": "Python",
+      "domains": [
+        "ai-llm",
+        "agent"
+      ],
+      "summary_zh": "为AI代理提供持久化跨会话记忆的主动式记忆代理。解决AI代理在会话重置后丢失上下文、需重复解释代码库的问题；用于需要长期记忆的代理场景",
+      "summary_en": "Memory that AI Agents Love!"
+    },
+    {
+      "full_name": "tt-a1i/archify",
+      "html_url": "https://github.com/tt-a1i/archify",
+      "stars": 1489,
+      "star_delta": 283,
+      "growth_rate": 0.2347,
+      "language": "JavaScript",
+      "domains": [
+        "ai-llm",
+        "devops",
+        "design-tools"
+      ],
+      "summary_zh": "用自然语言描述生成架构图，支持暗/亮主题切换和多种格式导出。。当需要快速将系统或流程的文字描述转化为专业、可分享的技术图表时使用，无需设计技能。",
+      "summary_en": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export"
+    },
+    {
+      "full_name": "opengeos/GeoLibre",
+      "html_url": "https://github.com/opengeos/GeoLibre",
+      "stars": 1342,
+      "star_delta": 255,
+      "growth_rate": 0.2346,
+      "language": "TypeScript",
+      "domains": [
+        "data-viz",
+        "self-hosted"
+      ],
+      "summary_zh": "跨平台云原生GIS，可视化分析地理空间数据。跨平台地理空间数据可视化与分析，支持本地数据隐私，无需安装",
+      "summary_en": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks."
+    },
+    {
+      "full_name": "JimLiu/baoyu-design",
+      "html_url": "https://github.com/JimLiu/baoyu-design",
+      "stars": 2124,
+      "star_delta": 396,
+      "growth_rate": 0.2292,
+      "language": "JavaScript",
+      "domains": [
+        "ai-llm",
+        "design-tools"
+      ],
+      "summary_zh": "将 Claude Design 作为本地 Agent 技能运行，在编辑器中生成 UI 设计稿。无需访问 claude.ai/design 网站，即可在本地编码代理（如 Cursor、Claude Code）中直接生成 UI 设计稿、原型和线框图，所有产出物为自包含 HTML 文件",
+      "summary_en": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8."
+    },
+    {
+      "full_name": "Helvesec/rmux",
+      "html_url": "https://github.com/Helvesec/rmux",
+      "stars": 2216,
+      "star_delta": 408,
+      "growth_rate": 0.2257,
+      "language": "Rust",
+      "domains": [
+        "cli",
+        "agent",
+        "automation"
+      ],
+      "summary_zh": "一个用 Rust 编写的通用终端复用器，提供类型化 SDK 以编程方式控制 CLI/TUI 应用。。解决从代码中自动化控制命令行或终端界面应用的问题，适用于 AI 代理或脚本场景。",
+      "summary_en": "Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows."
+    },
+    {
+      "full_name": "NdoleStudio/httpsms",
+      "html_url": "https://github.com/NdoleStudio/httpsms",
+      "stars": 2461,
+      "star_delta": 453,
+      "growth_rate": 0.2256,
+      "language": "Go",
+      "domains": [
+        "automation",
+        "self-hosted"
+      ],
+      "summary_zh": "通过 HTTP API 将 Android 手机用作短信网关。需要以编程方式发送/接收短信，但在许多国家无法购买虚拟号码；该项目将实体 Android 手机变为短信网关。",
+      "summary_en": "Send and receive SMS messages using your Android phone programmatically via a simple HTTP API"
+    },
+    {
+      "full_name": "omnigent-ai/omnigent",
+      "html_url": "https://github.com/omnigent-ai/omnigent",
+      "stars": 5319,
+      "star_delta": 976,
+      "growth_rate": 0.2247,
+      "language": "Python",
+      "domains": [
+        "ai-llm",
+        "agent"
+      ],
+      "summary_zh": "多AI代理统一编排与策略执行的开源元框架。解决多AI代理工具集成繁琐、缺乏统一治理与跨设备协作的问题。",
+      "summary_en": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device."
+    },
+    {
+      "full_name": "BuilderIO/skills",
+      "html_url": "https://github.com/BuilderIO/skills",
+      "stars": 2853,
+      "star_delta": 512,
+      "growth_rate": 0.2187,
+      "language": "JavaScript",
+      "domains": [
+        "ai-llm",
+        "agent"
+      ],
+      "summary_zh": "一组用于编码智能体的可组合技能。帮助智能体在规划、审查、验证等关键任务上保持清晰，避免在聊天中模糊",
+      "summary_en": "Skills for coding agents"
+    },
+    {
+      "full_name": "EpicGames/lore",
+      "html_url": "https://github.com/EpicGames/lore",
+      "stars": 6625,
+      "star_delta": 1160,
+      "growth_rate": 0.2123,
+      "language": "Rust",
+      "domains": [
+        "backend",
+        "devops"
+      ],
+      "summary_zh": "Epic Games 开源的下一代版本控制系统。解决大型项目（含代码和大型二进制资产）的版本控制问题，支持团队和数据规模的无缝扩展",
+      "summary_en": "Lore is a next-generation, open source version control system"
+    },
+    {
+      "full_name": "hero8152/Infinite-Canvas",
+      "html_url": "https://github.com/hero8152/Infinite-Canvas",
+      "stars": 1699,
+      "star_delta": 294,
+      "growth_rate": 0.2093,
+      "language": "Python",
+      "domains": [
+        "ai-llm",
+        "image-gen",
+        "audio-video"
+      ],
+      "summary_zh": "支持多种API和本地ComfyUI调用的无限画布工具。整合多种AI模型API（OpenAI、火山引擎、即梦等）和本地ComfyUI，提供统一调用界面",
+      "summary_en": "Supports comfyui/API calls/modelscope calls"
+    },
+    {
+      "full_name": "Jakubantalik/transitions.dev",
+      "html_url": "https://github.com/Jakubantalik/transitions.dev",
+      "stars": 1766,
+      "star_delta": 302,
+      "growth_rate": 0.2063,
+      "language": "HTML",
+      "domains": [
+        "frontend",
+        "design-tools"
+      ],
+      "summary_zh": "Web 应用常见 UI 过渡效果集合，含可复用 CSS 和 AI 技能。为 Web 应用添加常见交互过渡（如卡片缩放、弹窗、菜单）时，可直接复制 CSS 片段或通过 AI 工具集成，无需从头编写动画",
+      "summary_en": "Collection of the most essential transitions for web apps including product motion skill"
+    },
+    {
+      "full_name": "supabitapp/supacode",
+      "html_url": "https://github.com/supabitapp/supacode",
+      "stars": 1826,
+      "star_delta": 309,
+      "growth_rate": 0.2037,
+      "language": "Swift",
+      "domains": [
+        "ai-llm",
+        "agent"
+      ],
+      "summary_zh": "面向编码助手的原生终端指挥中心。。在原生 macOS 终端中集中管理和协调多个编码助手。",
+      "summary_en": "worktree coding agents command center."
+    },
+    {
+      "full_name": "basketikun/infinite-canvas",
+      "html_url": "https://github.com/basketikun/infinite-canvas",
+      "stars": 2332,
+      "star_delta": 392,
+      "growth_rate": 0.2021,
+      "language": "TypeScript",
+      "domains": [
+        "ai-llm",
+        "image-gen",
+        "audio-video"
+      ],
+      "summary_zh": "面向AI图片创作的无限画布工作台，集成生图、编辑、视频生成。解决AI图片创作中需要在多个工具间切换的问题，提供统一的画布界面进行生图、编辑、对话和素材管理",
+      "summary_en": "面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。"
+    },
+    {
+      "full_name": "Klotzkette/claude-fuer-deutsches-recht",
+      "html_url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+      "stars": 1204,
+      "star_delta": 201,
+      "growth_rate": 0.2004,
+      "language": "Python",
+      "domains": [
+        "ai-llm",
+        "self-hosted"
+      ],
+      "summary_zh": "面向德国法律实践的实验性 Claude 技能集合。帮助律师和法务在德国法律（劳动法、公司法、破产法等）中利用 AI 辅助工作流程，提供可定制的提示和子代理。",
+      "summary_en": "⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co"
+    }
+  ]
+}
